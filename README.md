@@ -1,16 +1,61 @@
-### Hi there 👋
+# Hello, I am Przemyslaw 👋
 
-<!--
-**bykowski/bykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced programmer 🔹 Speaker and trainer 🔹 YouTuber and blogger 🔹 Spring Boot 🔹 Microservices 🔹 Webinars and IT trainings
 
-Here are some ideas to get you started:
+![](https://raw.githubusercontent.com/bykowski/bykowski/main/profile-picture.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help to solve problems related to software architecture. I specialize in Spring Boot, especially in using it in the context of microservices. I train programmers, consult and I am building a community of programming enthusiasts like myself.
+
+### 🛠 &nbsp;Tech Stack
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+## Find Me Around The Web 🌍
+
+- 🗣 [Blog](https://bykowski.pl)
+- 🔴 [YouTube](https://www.youtube.com/channel/UCjWnQvpQgSRLeDEYQC0ZuLg)
+- 📸 [Instagram](https://www.instagram.com/przemyslaw.bykowski/)
+- 🙋‍♂️ [Grupa Facebook](https://www.facebook.com/groups/byczazagroda/)
+- 🐦 [Twitter](https://twitter.com/przemekbykowski)
+- 🔗 [Linkedin](https://www.linkedin.com/in/przemyslaw-bykowski/)
+- 📫 [E-mail](mailto:przemek@bykowski.pl)
+
+## My Top Blog Posts ✍️
+
+- [Spring i Spring Boot – rzeczowy przewodnik ✨️](https://bykowski.pl/spring-i-spring-boot/)
+- [REST API – Efektywna Droga Do Zrozumienia ✨️](https://bykowski.pl/rest-api-efektywna-droga-do-zrozumienia/)
+- [Jenkins – zautomatyzuj swoją pracę + ranking popularności CI/CD 👨‍💻](https://bykowski.pl/jenkins-zautomatyzuj-swoja-prace/)
+- [Mikroserwisy – wprowadzenie i praktyczny przykład 🚀](https://bykowski.pl/mikroserwisy-wprowadzenie-i-praktyczny-przyklad/)
+
+
+## My Top Videos 📺
+
+- [Zadanie Rekrutacyjne Na Stanowisko Java Developer! ✨️](https://youtu.be/xH6T8VQdpRo)
+- [Tworzenie Mikrousług Ze Spring Cloud - I Część Szkolenia ✨️](https://youtu.be/3D6pL2y-QmM)
+- [Testy Automatyczne - Testy Integracyjne | Część 7 👨‍💻](https://youtu.be/B7S73Bik7Us)
+- [Angular Cli Dla Programistów Java - Angular W 45 min 🔎](https://youtu.be/m7J-7ka8neU)
+- [Najefektywniejsza Droga Do Tworzenia Rest API w Spring 🚀](https://youtu.be/QwpvukCGrmc)
+
+
+## ⚡My Book - Spring Boot: LiveBook ⚡
+
+[![Spring Boot: LiveBook](https://i9.ytimg.com/vi/s0FV0dZ8drg/mqdefault.jpg?v=6101e4df&sqp=COj-rokG&rs=AOn4CLBS3SEpXHokHKRtCrKv-aYVvLfySw)](https://youtu.be/s0FV0dZ8drg)
+
+👉 [Order My Book Right Now ✨️✨️✨️✨](https://livebooks.pl)
+
+## My Github Stats 📈 
+
+
+![Przemek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bykowski&show_icons=true&theme=gotham)
+
+
+
+
+
+
