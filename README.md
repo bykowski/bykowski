@@ -45,7 +45,7 @@ I help to solve problems related to software architecture. I specialize in Sprin
 
 ## ⚡My Book - Spring Boot: LiveBook ⚡
 
-[![Spring Boot: LiveBook](https://i9.ytimg.com/vi/s0FV0dZ8drg/mqdefault.jpg?v=6101e4df&sqp=COj-rokG&rs=AOn4CLBS3SEpXHokHKRtCrKv-aYVvLfySw)](https://youtu.be/s0FV0dZ8drg)
+<img src="https://raw.githubusercontent.com/bykowski/bykowski/main/unboxing-spring-livebook.png" width="460">
 
 👉 [Order My Book Right Now ✨️✨️✨️✨](https://livebooks.pl)
 
